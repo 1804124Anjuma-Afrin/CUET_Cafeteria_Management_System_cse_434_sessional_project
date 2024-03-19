@@ -1,12 +1,12 @@
 # CUET CAFETERIA MANAGEMENT SYSTEM
 
-CUET Cafeteria Management System is a web application developed for managing cafeteria operations efficiently. It provides functionalities for both administrators and customers to handle various tasks related to cafeteria management, such as menu management, order placement, reservation, staff management, and more.
+CUET Cafeteria Management System is a web application developed for managing cafeteria operations efficiently. It provides functionalities for both administrators and customers to handle various tasks related to cafeteria management, such as menu management, order placement, reservation, staff management, and more. This project is done for CSE 434 Software Engineering (sessional).
 
 ## Contributors
 
-- Tanzila Fardous Puspo (ID: 1804121)
-- Anjuma Afrin (ID: 1804124)
-- Aishwaria Roy Snigdha (ID: 1804131)
+- Tanzila Fardous Puspo (ID: 1804121) (Team Mate)
+- Anjuma Afrin (ID: 1804124) (Leader)
+- Aishwaria Roy Snigdha (ID: 1804131) (Team Mate)
 
 ## Features
 
